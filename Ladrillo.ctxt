@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Ladrillo
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MapGenerator\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=fila\ col\ anchoLad\ incre
+comment1.target=Ladrillo(int,\ int,\ int,\ int)
+comment2.params=g\ x\ y
+comment2.target=void\ dibujarLad(java.awt.Graphics,\ int,\ int)
+comment3.params=valor\ f\ c
+comment3.target=int\ noVisible(int,\ int,\ int)
+numComments=4

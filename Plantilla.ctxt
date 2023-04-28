@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Plantilla
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Inicio\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=s
+comment1.target=Plantilla(java.lang.String)
+comment2.params=g\ x\ y\ ancho\ alto
+comment2.target=void\ paintComponent2(java.awt.Graphics,\ int,\ int,\ int,\ int)
+comment3.params=g
+comment3.target=void\ paintComponent(java.awt.Graphics)
+numComments=4
